@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33397" started-at="2016-08-30T17:35:29Z" finished-at="2016-08-30T17:36:03Z">
+  <suite name="Default suite" duration-ms="30701" started-at="2016-08-30T17:57:01Z" finished-at="2016-08-30T17:57:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33397" started-at="2016-08-30T17:35:29Z" finished-at="2016-08-30T17:36:03Z">
+    <test name="Default test" duration-ms="30701" started-at="2016-08-30T17:57:01Z" finished-at="2016-08-30T17:57:31Z">
       <class name="com.edureka.testcase.ExecutionTest">
-        <test-method status="PASS" signature="executeTestScriptReturnTrueIfCompleted()[pri:0, instance:com.edureka.testcase.ExecutionTest@36c3fc68]" name="executeTestScriptReturnTrueIfCompleted" duration-ms="33366" started-at="2016-08-30T13:35:29Z" finished-at="2016-08-30T13:36:03Z">
+        <test-method status="PASS" signature="executeTestScriptReturnTrueIfCompleted()[pri:0, instance:com.edureka.testcase.ExecutionTest@7cf02bee]" name="executeTestScriptReturnTrueIfCompleted" duration-ms="30670" started-at="2016-08-30T13:57:01Z" finished-at="2016-08-30T13:57:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- executeTestScriptReturnTrueIfCompleted -->

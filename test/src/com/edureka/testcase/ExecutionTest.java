@@ -19,7 +19,7 @@ public class ExecutionTest {
 	@Test
 	public void executeTestScriptReturnTrueIfCompleted() throws Exception {
 		
-		String filePath = "C:\\workspaces\\Selenium Project\\TestScript.xlsx";
+		String filePath = "C:\\workspaces\\Selenium Project\\KeywordAndData\\TestScript.xlsx";
 		
 		Excel excel = new Excel( filePath );
 		
